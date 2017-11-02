@@ -155,6 +155,15 @@ footer h4 {
 
 }    
 
+@media screen and (min-width: 417px) and (max-width: 538px)  {
+    .main-section {
+        background: url(../img/frontEnd1001_v2medSmall.jpg)!important;
+    }
+
+    .main-section h2{
+        color:blue;
+    }
+}    
 @media screen and (max-width: 555px) {
     .full-name{
         font-size: 2.25em;
