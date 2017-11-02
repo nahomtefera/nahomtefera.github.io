@@ -126,7 +126,7 @@ footer h4 {
 /* Responsive Styles */
 
 @media screen and (max-width: 767px) {
-    .main-tontent{
+    .main-content{
         width: 100%;
     }
 
@@ -152,6 +152,7 @@ footer h4 {
     .main-project {
         background: url(../img/frontEnd1001_v2medLarge.jpg);
     }
+
 }    
 
 @media screen and (max-width: 555px) {
