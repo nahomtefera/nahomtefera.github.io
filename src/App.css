@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway:300,400,500');
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600');
+
+
+
+.App {
+  text-align: center;
+  overflow-x: hidden;
+}
+
+.full-name {
+  font-family: "Raleway", Helvetica;
+  font-weight: 300;
+  letter-spacing: 3px;
+  color: black;
+}
+
+.last-name {
+  font-family: "Raleway", Helvetica;
+  font-weight: 500;
+}
+
+.hide {
+  display: none;
+}

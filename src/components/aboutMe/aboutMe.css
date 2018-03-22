@@ -1,0 +1,37 @@
+.about-me-container {
+    max-width: 90%;
+    width: 700px;
+    padding: 35px;
+    margin: 0 auto;
+    -webkit-box-shadow: -3px 2px 27px -3px rgba(186,186,255,0.52);
+    -moz-box-shadow: -3px 2px 27px -3px rgba(186,186,255,0.52);
+    box-shadow: -3px 2px 27px -3px rgba(186,186,255,0.52);
+}
+
+.about-me-list {
+    list-style: none;
+    text-transform: uppercase
+}
+
+.about-me-active {
+    font-weight: bold!important;
+    color: #006d99;
+}
+
+.about-me-list-item {
+    display: inline-block;
+    margin: 0 35px 20px 0;
+    font-family: "Raleway", Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    font-size: 1.3em;
+    cursor: pointer;
+}
+
+.about-me-list-item:hover {
+    font-weight: bold;
+    color:#006d99;
+}
+
+.hide {
+    display: none;
+}

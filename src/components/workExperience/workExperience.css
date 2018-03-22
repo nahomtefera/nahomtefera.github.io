@@ -1,0 +1,72 @@
+.work-experience-container {
+
+}
+
+.arrow-icon-container {
+    height: 600px;
+    line-height: 600px;
+}
+
+.arrow-icon {
+    max-width: 50px;
+    cursor: pointer;
+}
+
+.arrow-icon:hover {
+    transform: scale(1.1)
+}
+
+.left-arrow {
+    /* float: left; */
+    flex-grow: 1;
+}
+
+.work-list{
+    flex-grow: 8;
+}
+
+.right-arrow {
+    /* float: right; */
+    flex-grow: 1;
+}
+
+.work-list {
+    text-align: left;
+}
+
+.job-title, .job-company, .job-date {
+    margin: 0;
+    font-family: "Raleway", Arial, Helvetica, sans-serif;
+    color: #006d99;
+    margin: 14px;
+    margin-bottom: 5px;
+    display: inline-block;
+}
+
+.job-date {
+    float: right;
+}
+
+.job-description {
+    font-family: "Roboto", Arial, Helvetica, sans-serif;
+    color: #333;
+    line-height: 33px;
+    margin-left: 15px;
+
+}
+
+.work-nav {
+    text-align: center;
+
+}
+
+.work-nav-icon {
+    font-size: 2.4em;
+    cursor: pointer;
+}
+
+.work-nav-icon:hover {
+    color: #006d99;
+    transform: scale(1.1)
+}
+

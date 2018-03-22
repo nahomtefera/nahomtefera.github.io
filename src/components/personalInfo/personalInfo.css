@@ -1,0 +1,71 @@
+.personal-info-intro {
+    font-weight: 100;
+    font-family: "Raleway", Arial, Helvetica, sans-serif;
+    font-size: 2em;
+    text-align: left;
+    color: #555;
+    line-height: 50px;
+
+}
+
+.personal-info-fullname {
+    font-weight: 500;
+    color: #006d99;
+}
+
+.personal-info-description {
+    font-family: "Raleway", Arial, Helvetica, sans-serif;
+    text-align: left;
+    line-height: 35px;
+    letter-spacing: 1px;
+}
+
+.personal-info-nav {
+    text-align: center;
+
+}
+
+.personal-info-nav-icon {
+    font-size: 2.4em;
+    cursor: pointer;
+    margin: 8px;
+}
+
+.personal-info-nav-icon:hover {
+    color: #006d99;
+    transform: scale(1.1)
+}
+
+.personal-info-contact-list {
+    list-style: none;
+}
+
+.personal-info-contact-list li {
+    display: inline-block;
+    margin: 15px;
+    font-family: "Open Sans", Arial, Helvetica, sans-serif
+}
+
+.list-container{
+    border: 1px solid #dcdcdc;
+}
+
+.list-item-name {
+    display: inline-block;
+    padding: 10px;
+    font-weight: 600;
+    color: #006d99;
+}
+
+.list-item-value {
+    display: inline-block;
+    padding: 10px;
+    border-left: 1px solid #d2e3ff;
+    background: #f7faff;
+    font-weight: normal;
+    color: #3f3b3b
+}
+
+.face-picture {
+    max-width: 100px;
+}
